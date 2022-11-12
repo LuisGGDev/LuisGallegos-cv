@@ -4,3 +4,10 @@
     text-align: center;
     text-transform: uppercase;
 }
+
+@media (min-width: 950px) {
+    .projects-title{
+        font-size: 60px;
+        
+    }
+}
