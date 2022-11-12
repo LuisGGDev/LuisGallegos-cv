@@ -30,7 +30,7 @@
     background-color: var(--primary-color);
     color: var(--text-color-inverse);
     border: none;
-    font-size: 20px;
+    font-size: 14px;
     padding: 0.5em 1em;
     border-radius: 7px;
     cursor: pointer;
@@ -39,6 +39,7 @@
 .profile-btn:hover{
     filter: brightness(130%);
 }
+
 
 @media (min-width: 950px) {
     .profile-info{
